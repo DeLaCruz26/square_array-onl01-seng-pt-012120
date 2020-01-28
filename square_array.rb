@@ -6,6 +6,4 @@ def square_array(array)
   myArray
 end
 
-def square_array(array)
-  arrray.collect {|n| n ** 2}
-end
+
